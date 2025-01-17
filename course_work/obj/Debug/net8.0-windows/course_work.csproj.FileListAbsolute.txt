@@ -1,0 +1,34 @@
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work\course_work\bin\Debug\net8.0-windows\course_work.exe
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work\course_work\bin\Debug\net8.0-windows\course_work.deps.json
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work\course_work\bin\Debug\net8.0-windows\course_work.runtimeconfig.json
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work\course_work\bin\Debug\net8.0-windows\course_work.dll
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work\course_work\bin\Debug\net8.0-windows\course_work.pdb
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work\course_work\obj\Debug\net8.0-windows\course_work.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work\course_work\obj\Debug\net8.0-windows\course_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work\course_work\obj\Debug\net8.0-windows\course_work.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work\course_work\obj\Debug\net8.0-windows\course_work.AssemblyInfo.cs
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work\course_work\obj\Debug\net8.0-windows\course_work.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work\course_work\obj\Debug\net8.0-windows\course_work.dll
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work\course_work\obj\Debug\net8.0-windows\refint\course_work.dll
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work\course_work\obj\Debug\net8.0-windows\course_work.pdb
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work\course_work\obj\Debug\net8.0-windows\course_work.genruntimeconfig.cache
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work\course_work\obj\Debug\net8.0-windows\ref\course_work.dll
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work\course_work\obj\Debug\net8.0-windows\course_work.Paint.resources
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work\course_work\obj\Debug\net8.0-windows\course_work.Properties.Resources.resources
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work — копия\course_work\bin\Debug\net8.0-windows\course_work.exe
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work — копия\course_work\bin\Debug\net8.0-windows\course_work.deps.json
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work — копия\course_work\bin\Debug\net8.0-windows\course_work.runtimeconfig.json
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work — копия\course_work\bin\Debug\net8.0-windows\course_work.dll
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work — копия\course_work\bin\Debug\net8.0-windows\course_work.pdb
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work — копия\course_work\obj\Debug\net8.0-windows\course_work.Paint.resources
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work — копия\course_work\obj\Debug\net8.0-windows\course_work.Properties.Resources.resources
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work — копия\course_work\obj\Debug\net8.0-windows\course_work.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work — копия\course_work\obj\Debug\net8.0-windows\course_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work — копия\course_work\obj\Debug\net8.0-windows\course_work.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work — копия\course_work\obj\Debug\net8.0-windows\course_work.AssemblyInfo.cs
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work — копия\course_work\obj\Debug\net8.0-windows\course_work.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work — копия\course_work\obj\Debug\net8.0-windows\course_work.dll
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work — копия\course_work\obj\Debug\net8.0-windows\refint\course_work.dll
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work — копия\course_work\obj\Debug\net8.0-windows\course_work.pdb
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work — копия\course_work\obj\Debug\net8.0-windows\course_work.genruntimeconfig.cache
+C:\Users\PC\Desktop\универ\3 семестр\ООП\course_work — копия\course_work\obj\Debug\net8.0-windows\ref\course_work.dll
